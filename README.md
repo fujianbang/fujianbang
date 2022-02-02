@@ -1,11 +1,10 @@
-# Jianbang 👨‍💻
+### Hi there 👋          
+I'm Jianbang, a gopher and a rustacean from China 🇨🇳
 
-## Hi there 👋          
-I'm Jianbang, a gopher.  
+#### About me
+* Gopher
+* Rustacean
+* Little Vue
 
-[![Jianbang's GitHub stats](https://github-readme-stats.vercel.app/api?username=fujianbang)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<p>
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fujianbang&layout=compact&langs_count=4&hide=javascript,html,css"/>
-</p>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fujianbang&show_icons=true&hide_border=true" alt="Jianbang's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fujianbang&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
